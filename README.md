@@ -1,5 +1,6 @@
 # pypostgresql
 
+<br/><br/>
 
 ## How use ?
 1. you must install pycopg2 module
@@ -8,6 +9,7 @@ pip install pycopg2 or pip3 install pycopg2
 2. db = postgresql(host,db_name,user_id,user_password)
 
 3. you can use postgresql method 
+<br/><br/><br/>
 
 ### method
 
@@ -18,7 +20,7 @@ string : query
 
 query execute
 
-
+<br/><br/><br/>
 
 ##### 2.select
 ###### parameter
@@ -27,7 +29,7 @@ table : table name
 
 return as tuple
 
-
+<br/><br/><br/>
 
 ##### 3.insert
 ###### parameter
@@ -37,7 +39,7 @@ table : table name
 
 insert int table
 
-
+<br/><br/><br/>
 
 ##### 4.create_table
 ###### parameter
@@ -46,7 +48,7 @@ table : make table name
 
 create table
 
-
+<br/><br/><br/>
 
 ##### 5.return_query
 ###### parameter
@@ -55,7 +57,7 @@ ls : null
 
 Used for query statements that require return
 
-
+<br/><br/><br/>
 
 ##### 6.where_select
 ###### parameter
@@ -65,7 +67,7 @@ table : table name
 
 Used for select that needs where
 
-
+<br/><br/><br/><br/><br/>
 
 
 ###### made by heegong
