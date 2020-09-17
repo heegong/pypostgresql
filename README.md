@@ -3,8 +3,8 @@
 <br/><br/>
 
 ## How use ?
-1. you must install pycopg2 module
-pip install pycopg2 or pip3 install pycopg2
+1. you must install psycopg2 module
+pip install pycopg2 or pip3 install psycopg2
 
 2. db = postgresql(host,db_name,user_id,user_password)
 
