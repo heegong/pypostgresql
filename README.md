@@ -2,7 +2,7 @@
 
 <br/><br/>
 
-## How use ?
+## How to use ?
 1. you must install psycopg2 module
 pip install pycopg2 or pip3 install psycopg2
 
